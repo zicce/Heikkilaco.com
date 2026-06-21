@@ -1,0 +1,1112 @@
+<!DOCTYPE html><html lang="fi" class="js no-svg"><head>
+	<meta charset="UTF-8">
+<script async="" src="https://service.giosg.com/live2/c78ea380-cbc4-11e4-be1b-00163e0c01f2"></script><script>
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});
+</script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v25.3 (Yoast SEO v27.8) - https://yoast.com/product/yoast-seo-premium-wordpress/ -->
+	<title>Kumppanuus Lakeuden Maataloustilin kanssa - Lakiasiaintoimisto Heikkilä &amp; Co</title>
+	<meta name="description" content="Yhteistyö Asianajotoimisto Heikkilän ja Lakeuden Maataloustili (Peräseinäjoki) välillä aloitettu.">
+	<link rel="canonical" href="./">
+	<meta property="og:locale" content="fi_FI">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Kumppanuus Lakeuden Maataloustilin kanssa">
+	<meta property="og:description" content="Yhteistyö Asianajotoimisto Heikkilän ja Lakeuden Maataloustili (Peräseinäjoki) välillä aloitettu.">
+	<meta property="og:url" content="./">
+	<meta property="og:site_name" content="Lakiasiaintoimisto Heikkilä &amp; Co">
+	<meta property="article:publisher" content="https://www.facebook.com/Heikkilaco">
+	<meta property="article:published_time" content="2022-09-30T04:40:22+00:00">
+	<meta property="article:modified_time" content="2024-02-27T08:18:37+00:00">
+	<meta property="og:image" content="../wp-content/uploads/2024/02/16A1438-1024x548.jpg">
+	<meta property="og:image:width" content="1024">
+	<meta property="og:image:height" content="548">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta name="author" content="Meeri Vihersaari">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:label1" content="Kirjoittanut">
+	<meta name="twitter:data1" content="Meeri Vihersaari">
+	<meta name="twitter:label2" content="Arvioitu lukuaika">
+	<meta name="twitter:data2" content="1 minuutti">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/www.heikkilaco.fi\/asianajotoimisto-peraseinajoki-lakeuden-maataloustili\/#article","isPartOf":{"@id":"https:\/\/www.heikkilaco.fi\/asianajotoimisto-peraseinajoki-lakeuden-maataloustili\/"},"author":{"name":"Meeri Vihersaari","@id":"https:\/\/www.heikkilaco.fi\/#\/schema\/person\/66f3795da14803f1241afce5c3de4f9e"},"headline":"Kumppanuus Lakeuden Maataloustilin kanssa","datePublished":"2022-09-30T04:40:22+00:00","dateModified":"2024-02-27T08:18:37+00:00","mainEntityOfPage":{"@id":"https:\/\/www.heikkilaco.fi\/asianajotoimisto-peraseinajoki-lakeuden-maataloustili\/"},"wordCount":71,"publisher":{"@id":"https:\/\/www.heikkilaco.fi\/#organization"},"image":{"@id":"https:\/\/www.heikkilaco.fi\/asianajotoimisto-peraseinajoki-lakeuden-maataloustili\/#primaryimage"},"thumbnailUrl":"https:\/\/www.heikkilaco.fi\/wp-content\/uploads\/2024\/02\/16A1438-scaled.jpg","keywords":["Lakeuden Maataloustili","lakipalvelut","tilitoimisto","yhteistyö"],"articleSection":["Ajankohtaista"],"inLanguage":"fi"},{"@type":"WebPage","@id":"https:\/\/www.heikkilaco.fi\/asianajotoimisto-peraseinajoki-lakeuden-maataloustili\/","url":"https:\/\/www.heikkilaco.fi\/asianajotoimisto-peraseinajoki-lakeuden-maataloustili\/","name":"Kumppanuus Lakeuden Maataloustilin kanssa - Lakiasiaintoimisto Heikkilä &amp; Co","isPartOf":{"@id":"https:\/\/www.heikkilaco.fi\/#website"},"primaryImageOfPage":{"@id":"https:\/\/www.heikkilaco.fi\/asianajotoimisto-peraseinajoki-lakeuden-maataloustili\/#primaryimage"},"image":{"@id":"https:\/\/www.heikkilaco.fi\/asianajotoimisto-peraseinajoki-lakeuden-maataloustili\/#primaryimage"},"thumbnailUrl":"https:\/\/www.heikkilaco.fi\/wp-content\/uploads\/2024\/02\/16A1438-scaled.jpg","datePublished":"2022-09-30T04:40:22+00:00","dateModified":"2024-02-27T08:18:37+00:00","description":"Yhteistyö Asianajotoimisto Heikkilän ja Lakeuden Maataloustili (Peräseinäjoki) välillä aloitettu.","breadcrumb":{"@id":"https:\/\/www.heikkilaco.fi\/asianajotoimisto-peraseinajoki-lakeuden-maataloustili\/#breadcrumb"},"inLanguage":"fi","potentialAction":[{"@type":"ReadAction","target":["https:\/\/www.heikkilaco.fi\/asianajotoimisto-peraseinajoki-lakeuden-maataloustili\/"]}]},{"@type":"ImageObject","inLanguage":"fi","@id":"https:\/\/www.heikkilaco.fi\/asianajotoimisto-peraseinajoki-lakeuden-maataloustili\/#primaryimage","url":"https:\/\/www.heikkilaco.fi\/wp-content\/uploads\/2024\/02\/16A1438-scaled.jpg","contentUrl":"https:\/\/www.heikkilaco.fi\/wp-content\/uploads\/2024\/02\/16A1438-scaled.jpg","width":2560,"height":1371,"caption":"Lakitoimisto Turku-Helsinki-Tampere"},{"@type":"BreadcrumbList","@id":"https:\/\/www.heikkilaco.fi\/asianajotoimisto-peraseinajoki-lakeuden-maataloustili\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Etusivu","item":"https:\/\/www.heikkilaco.fi\/"},{"@type":"ListItem","position":2,"name":"Artikkelit","item":"https:\/\/www.heikkilaco.fi\/artikkelit\/"},{"@type":"ListItem","position":3,"name":"Ajankohtaista","item":"https:\/\/www.heikkilaco.fi\/kategoria\/ajankohtaista\/"},{"@type":"ListItem","position":4,"name":"Kumppanuus Lakeuden Maataloustilin kanssa"}]},{"@type":"WebSite","@id":"https:\/\/www.heikkilaco.fi\/#website","url":"https:\/\/www.heikkilaco.fi\/","name":"Lakiasiaintoimisto Heikkilä &amp; Co","description":"","publisher":{"@id":"https:\/\/www.heikkilaco.fi\/#organization"},"alternateName":"Heikkilä & Co","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.heikkilaco.fi\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"fi"},{"@type":"Organization","@id":"https:\/\/www.heikkilaco.fi\/#organization","name":"Lakiasiaintoimisto Heikkilä & Co HCO Oy","alternateName":"Heikkilä & Co","url":"https:\/\/www.heikkilaco.fi\/","logo":{"@type":"ImageObject","inLanguage":"fi","@id":"https:\/\/www.heikkilaco.fi\/#\/schema\/logo\/image\/","url":"https:\/\/www.heikkilaco.fi\/wp-content\/uploads\/2023\/06\/favicon.png","contentUrl":"https:\/\/www.heikkilaco.fi\/wp-content\/uploads\/2023\/06\/favicon.png","width":512,"height":512,"caption":"Lakiasiaintoimisto Heikkilä & Co HCO Oy"},"image":{"@id":"https:\/\/www.heikkilaco.fi\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/Heikkilaco","https:\/\/www.instagram.com\/heikkilaco.fi","https:\/\/fi.linkedin.com\/company\/heikkila-co"],"description":"Lakiasiaintoimisto Heikkilä & Co on suomalainen lakiasiaintoimisto, joka toimii Turun, Helsingin, Tampereen ja Vaasan alueilla. Toimisto avustaa yksityishenkilöitä asuntokauppa-, kiinteistökauppa-, yhteisomistus- ja perinnönjakoriidoissa sekä varallisuussuunnittelussa. Yritysasiakkaille se tarjoaa asiantuntijapalveluja insolvenssiasioissa, yritysverotuksessa sekä yritysjärjestelyissä, yrityskaupoissa ja sukupolvenvaihdoksissa. Toimisto on tunnettu erityisesti yhteiskannejuttujen hoitamisesta.","email":"info@heikkilaco.fi","telephone":"+358102899400","legalName":"Lakiasiaintoimisto Heikkilä & Co HCO Oy","foundingDate":"2003-07-31","vatID":"FI18433939","numberOfEmployees":{"@type":"QuantitativeValue","minValue":"11","maxValue":"50"}},{"@type":"Person","@id":"https:\/\/www.heikkilaco.fi\/#\/schema\/person\/66f3795da14803f1241afce5c3de4f9e","name":"Meeri Vihersaari"},{"@context":"https:\/\/schema.org","@type":"LegalService","name":"Lakiasiaintoimisto Heikkilä &amp; Co","legalName":"Lakiasiaintoimisto Heikkilä &amp; Co","url":"https:\/\/www.heikkilaco.fi","logo":"https:\/\/www.heikkilaco.fi\/wp-content\/themes\/heikkila-co\/dist\/img\/logo.svg","image":"https:\/\/www.heikkilaco.fi\/wp-content\/themes\/heikkila-co\/dist\/img\/logo.svg","email":"info@heikkilaco.fi","telephone":"+358102899400","openingHours":["Mo-Fr 08:00-16:00"],"address":{"@type":"PostalAddress","streetAddress":"Itämerenkatu 3","addressLocality":"Helsinki","postalCode":"00180","addressCountry":"FI"},"location":[{"@type":"Place","name":"Lakitoimisto Helsinki","hasMap":"https:\/\/maps.app.goo.gl\/osbmnNiptDJ7otwK7","address":{"@type":"PostalAddress","streetAddress":"Itämerenkatu 3","addressLocality":"Helsinki","postalCode":"00180","addressCountry":"FI"}},{"@type":"Place","name":"Lakitoimisto Turku","hasMap":"https:\/\/maps.app.goo.gl\/yikbbdL8A3PrYfgZ8","address":{"@type":"PostalAddress","streetAddress":"Linnankatu 11 b","addressLocality":"Turku","postalCode":"20100","addressCountry":"FI"}},{"@type":"Place","name":"Lakitoimisto Tampere","hasMap":"https:\/\/maps.app.goo.gl\/DeU5Rt2MQGy4sQGV8","address":{"@type":"PostalAddress","streetAddress":"Åkerlundinkatu 11","addressLocality":"Tampere","postalCode":"33100","addressCountry":"FI"}},{"@type":"Place","name":"Lakitoimisto Vaasa","hasMap":"https:\/\/maps.app.goo.gl\/FXARGtqFymES5sTX8","address":{"@type":"PostalAddress","streetAddress":"Hovioikeudenpuistikko 13","addressLocality":"Vaasa","postalCode":"65100","addressCountry":"FI"}}]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel="dns-prefetch" href="//www.heikkilaco.fi">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="../wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.heikkilaco.fi%2Fasianajotoimisto-peraseinajoki-lakeuden-maataloustili%2F&amp;lang=fi">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.heikkilaco.fi%2Fasianajotoimisto-peraseinajoki-lakeuden-maataloustili%2F&amp;format=xml&amp;lang=fi">
+<link rel="stylesheet" id="wp-block-library-css" href="../wp-includes/css/dist/block-library/style.min.css?ver=6.9.4" media="all">
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--system-font: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){margin-left: auto !important;margin-right: auto !important;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{font-family: var(--wp--preset--font-family--system-font);padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-system-font-font-family{font-family: var(--wp--preset--font-family--system-font) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel="stylesheet" id="dashicons-css" href="../wp-includes/css/dashicons.min.css?ver=6.9.4" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="../wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=10.8.1" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="../wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=10.8.1" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="../wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=10.8.1" media="all">
+<style id="woocommerce-inline-inline-css">
+.woocommerce form .form-row .required { visibility: visible; }
+/*# sourceURL=woocommerce-inline-inline-css */
+</style>
+<link rel="stylesheet" id="heikkila-co-style-css" href="../wp-content/themes/heikkila-co/dist/css/main.css?ver=b5ea273fe3d39e79357469d3a5296252ac5009dc" media="all">
+<link rel="stylesheet" id="tablepress-default-css" href="../wp-content/tablepress-combined.min.css?ver=35" media="all">
+<link rel="stylesheet" id="moove_gdpr_frontend-css" href="../wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main-nf.css?ver=5.0.15" media="all">
+<style id="moove_gdpr_frontend-inline-css">
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-settings-btn,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-settings-btn {
+					background-color: transparent;
+					box-shadow: inset 0 0 0 1px currentColor;
+					opacity: .7;
+					color: #202020;
+				}
+
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-settings-btn:hover,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-settings-btn:hover {
+					background-color: #202020;
+					box-shadow: none;
+					color: #fff;
+					opacity: 1;
+				}
+
+				#moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-settings-btn, #moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-settings-btn {
+					background-color: transparent;
+					box-shadow: inset 0 0 0 1px currentColor;
+					opacity: .7;
+					color: #fff;
+				}
+
+				#moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-settings-btn:hover, #moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-settings-btn:hover {
+					box-shadow: none;
+					opacity: 1;
+					color: #202020;
+					background-color: #fff;
+				}
+							#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main h3.tab-title, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main span.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content .moove-gdpr-branding-cnt a,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,
+				#moove_gdpr_cookie_modal .cookie-switch .cookie-slider:after, 
+				#moove_gdpr_cookie_modal .cookie-switch .slider:after, 
+				#moove_gdpr_cookie_modal .switch .cookie-slider:after, 
+				#moove_gdpr_cookie_modal .switch .slider:after,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content p, 
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content p a,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton, 
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h1, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h2, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h3, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h4, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h5, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h6,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-modal-title .tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main h3.tab-title, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main span.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-branding-cnt a {
+					font-weight: inherit				}
+			#moove_gdpr_cookie_modal,#moove_gdpr_cookie_info_bar,.gdpr_cookie_settings_shortcode_content{font-family:inherit}#moove_gdpr_save_popup_settings_button{background-color:#373737;color:#fff}#moove_gdpr_save_popup_settings_button:hover{background-color:#000}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton{background-color:#20335f}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green{background-color:#20335f;border-color:#20335f}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton:hover,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green:hover{background-color:#fff;color:#20335f}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon{background-color:#20335f;border:1px solid #20335f}#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-allow-all.focus-g,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-allow-all:focus,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-allow-all.focus-g,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-allow-all:focus,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-reject-btn.focus-g,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-reject-btn:focus,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-reject-btn.focus-g,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-reject-btn:focus,#moove_gdpr_cookie_info_bar span.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar span.change-settings-button:focus,#moove_gdpr_cookie_info_bar button.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar button.change-settings-button:focus{-webkit-box-shadow:0 0 1px 3px #20335f;-moz-box-shadow:0 0 1px 3px #20335f;box-shadow:0 0 1px 3px #20335f}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button{color:#20335f}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .gdpr-acc-link{line-height:0;font-size:0;color:transparent;position:absolute}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close:hover i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button.focus-g,span.change-settings-button:focus,button.change-settings-button.focus-g,button.change-settings-button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:focus{color:#20335f}#moove_gdpr_cookie_modal .moove-gdpr-branding.focus-g span,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main a.focus-g,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .gdpr-cd-details-toggle.focus-g{color:#20335f}#moove_gdpr_cookie_modal.gdpr_lightbox-hide{display:none}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,.gdpr-shr-button,#moove_gdpr_cookie_info_bar .moove-gdpr-infobar-close-btn{border-radius:0}
+/*# sourceURL=moove_gdpr_frontend-inline-css */
+</style>
+<script src="../wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="../wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.8.1" id="wc-jquery-blockui-js" defer="" data-wp-strategy="defer"></script>
+<script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"../wp-admin/admin-ajax.php","wc_ajax_url":"../?wc-ajax=%%endpoint%%","i18n_view_cart":"N\u00e4yt\u00e4 ostoskori","cart_url":"../kauppa/ostoskori","is_cart":"","cart_redirect_after_add":"no"};
+//# sourceURL=wc-add-to-cart-js-extra
+</script>
+<script src="../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.8.1" id="wc-add-to-cart-js" defer="" data-wp-strategy="defer"></script>
+<script src="../wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.8.1" id="wc-js-cookie-js" defer="" data-wp-strategy="defer"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"../wp-admin/admin-ajax.php","wc_ajax_url":"../?wc-ajax=%%endpoint%%","i18n_password_show":"N\u00e4yt\u00e4 salasana","i18n_password_hide":"Piilota salasana"};
+//# sourceURL=woocommerce-js-extra
+</script>
+<script src="../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.8.1" id="woocommerce-js" defer="" data-wp-strategy="defer"></script>
+<link rel="https://api.w.org/" href="../wp-json"><link rel="alternate" title="JSON" type="application/json" href="../wp-json/wp/v2/posts/4858"><link rel="shortlink" href="../?p=4858">
+			<style type="text/css">
+				.paytrail-provider-group {
+					background-color: #ebebeb !important;
+					color: #515151 !important;
+				}
+				.paytrail-provider-group.selected {
+					background-color: #33798d !important;
+					color: #ffffff !important;
+				}
+				.paytrail-provider-group.selected div {
+					color: #ffffff !important;
+				}
+				.paytrail-provider-group:hover {
+					background-color: #d0d0d0 !important;
+					color: #515151 !important;
+				}
+				.paytrail-provider-group.selected:hover {
+					background-color: #33798d !important;
+					color: #ffffff !important;
+				}
+				.woocommerce-checkout #payment .paytrail-woocommerce-payment-fields--list-item--input:checked+.paytrail-woocommerce-payment-fields--list-item--wrapper, .woocommerce-checkout #payment .paytrail-woocommerce-payment-fields--list-item:hover .paytrail-woocommerce-payment-fields--list-item--wrapper {
+					border: 2px solid #33798d !important;
+				}
+				.woocommerce-checkout #payment ul.payment_methods li.paytrail-woocommerce-payment-fields--list-item .paytrail-woocommerce-payment-fields--list-item--wrapper:hover {
+					border: 2px solid #5399ad !important;
+				}
+			</style>
+			<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="../wp-content/uploads/2023/06/cropped-favicon-32x32.png" sizes="32x32">
+<link rel="icon" href="../wp-content/uploads/2023/06/cropped-favicon-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="../wp-content/uploads/2023/06/cropped-favicon-180x180.png">
+<meta name="msapplication-TileImage" content="../wp-content/uploads/2023/06/cropped-favicon-270x270.png">
+		
+		
+	<!-- giosg tag -->
+	<script>
+	(function(w, t, f) {
+		var s='script',o='_giosg',h='https://service.giosg.com',e,n;e=t.createElement(s);e.async=1;e.src=h+'../live2'+f;
+		w[o]=w[o]||function(){(w[o]._e=w[o]._e||[]).push(arguments)};w[o]._c=f;w[o]._h=h;n=t.getElementsByTagName(s)[0];n.parentNode.insertBefore(e,n);
+	})(window,document,"c78ea380-cbc4-11e4-be1b-00163e0c01f2");
+	</script>
+	<!-- giosg tag -->
+<style>.giosg-chat-container{width:310px;height:400px;display:flex;flex-direction:column;background-color:#fff;border-radius:4px;border:1px solid #efeff2;font-family:Arial,Helvetica,sans-serif}.giosg-chat-header{height:60px;padding:0 16px;background-color:#fff;border-radius:4px 4px 0 0;display:flex;align-items:center;cursor:move}.giosg-chat-dialog-agent-avatar-image{width:40px;height:40px;background-size:100% 100%;border-radius:100%;display:none}.giosg-chat-dialog-agent-avatar-image.giosg-chat-dialog-agent-avatar-image-visible{display:block}.giosg-chat-dialog-title-text{flex-grow:1;text-align:center;font-weight:bold;font-size:14px;color:#000}.giosg-chat-dialog-close-button{cursor:pointer;background-color:#fff;border:none;font-size:20px;font-weight:700;line-height:1em;color:#757575;text-shadow:0 1px 0 #fff;height:1em;width:1em;padding:0;margin:0;text-decoration:none;opacity:1;text-align:center;min-width:unset}.giosg-chat-dialog-close-button:hover{color:#000}.giosg-chat-dialog-close-button:focus{outline:none}.giosg-chat-dialog-iframe-container{flex-grow:1;height:0px}.giosg-chat-dialog-iframe-container iframe{display:block;height:100%;width:100%;border:0px;-ms-user-select:text !important}.giosg-chat-footer{height:37px;width:calc(100% - 16px);margin:0 8px;display:flex;flex-direction:row-reverse}.giosg-chat-footer-giosg-logo-link{padding:0;margin:0;text-decoration:none;opacity:1;text-align:center;display:flex;align-items:center;flex-shrink:0}.giosg-chat-footer-giosg-logo-image{height:25px}.giosg-chat-footer-customer-logo-image{flex-grow:1;flex-shrink:1;height:37px;min-width:0;width:0}.dialog-transfer-effect{border:1px solid gray;background:#000;opacity:.4;z-index:99999999}</style><style id="giosg-styles">@keyframes accessabilityButtonJiggle{0%{transform:scale(1);outline:2px solid rgba(0,0,0,0)}10%{outline:2px solid #000}33%{transform:scale(1.05)}66%{transform:scale(0.9)}100%{transform:scale(1)}}@keyframes giosg-animation-spawn{0%{transform:translateY(50px);opacity:0}100%{transform:translateY(0);opacity:1}}@keyframes giosg-animation-spawn-reverse{0%{transform:translateY(0);opacity:1}100%{transform:translateY(50px);opacity:0}}@keyframes giosg-animation-wiggle-icon{0%{transform:rotateZ(0deg);animation-timing-function:ease-in-out}33.33%{transform:rotateZ(-12deg);animation-timing-function:ease-in-out}66.67%{transform:rotateZ(12deg);animation-timing-function:ease-in-out}100%{transform:rotateZ(0deg);animation-timing-function:linear}}@keyframes giosg-animation-wiggle-count{0%{transform:scale(1);animation-timing-function:linear}50%{transform:scale(1.2);animation-timing-function:linear}100%{transform:scale(1);animation-timing-function:linear}}.giosg-animation-spawn{animation-name:giosg-animation-spawn;animation-duration:.2s;animation-timing-function:cubic-bezier(0.39, 0.575, 0.565, 1);animation-delay:0;animation-fill-mode:both}.giosg-animation-spawn-reverse{animation-name:giosg-animation-spawn-reverse;animation-duration:.3s;animation-timing-function:cubic-bezier(0.25, 0.46, 0.45, 0.94);animation-delay:0;animation-fill-mode:both}.giosg-animation-wiggle-icon{animation-name:giosg-animation-wiggle-icon;animation-duration:.3s;animation-timing-function:linear;animation-delay:0;animation-fill-mode:forwards}.giosg-animation-wiggle-count{animation-name:giosg-animation-wiggle-count;animation-duration:.3s;animation-timing-function:linear;animation-delay:0;animation-fill-mode:forwards}.giosg-chat-button{cursor:pointer;border:0;padding:0;margin:0;bottom:15px;position:fixed;right:15px;z-index:99999998;border-radius:50%;overflow:initial;text-shadow:initial;box-shadow:initial;background-color:rgba(0,0,0,0);-webkit-tap-highlight-color:rgba(255,255,255,0);-webkit-tap-highlight-color:rgba(0,0,0,0)}.giosg-chat-button:hover,.giosg-chat-button:focus-visible{filter:brightness(115%);background-color:rgba(0,0,0,0);overflow:initial;text-shadow:initial;box-shadow:initial}.giosg-chat-button:focus{outline:0}.giosg-chat-button:focus-visible{border-radius:50%;box-shadow:#fff 0px 0px 0px 6px;outline:2px solid #000;outline-offset:2px;animation:"accessabilityButtonJiggle" 200ms}.giosg-chat-button .giosg-chat-default-button-icon{filter:drop-shadow(0px 8px 8px rgba(0, 0, 0, 0.25))}.giosg-chat-button .giosg-chat-button-unread-message-count{background-color:#417ceb;border-radius:100%;color:#fff;font-family:Helvetica,sans-serif;font-size:12px;height:22px;line-height:22px;position:absolute;right:-3px;text-align:center;top:-10px;width:22px;z-index:2}.giosg-chat-button .giosg-chat-button-message-preview-bubble{position:absolute;width:200px;right:0px;bottom:62px;transform-origin:bottom right;line-height:initial;white-space:initial;letter-spacing:initial;font-weight:initial;text-shadow:initial}.giosg-chat-button .giosg-chat-button-message-preview-bubble .giosg-chat-button-message-preview-bubble-text{text-align:left;font-family:Helvetica,sans-serif;word-break:break-word;border-radius:10px 10px 10px 10px;padding:16px 44px 16px 16px;font-size:14px;box-shadow:rgba(0,0,0,.25) 0px 0px 2px 0px}.giosg-chat-button .giosg-chat-button-message-preview-bubble .giosg-chat-button-message-preview-bubble-avatar{position:absolute;left:0px;top:4px;transform:translateX(-70%);height:40px;width:40px;background-size:cover;border-radius:100%}.giosg-chat-button .giosg-chat-button-message-preview-bubble .giosg-chat-button-message-preview-bubble-close{position:absolute;right:0px;top:0px;width:28px;height:100%;border-radius:0px 10px 10px 0px;font-size:14px;text-align:center;vertical-align:center;display:flex;align-items:center;justify-content:center}.giosg-chat-container{width:310px;height:400px;display:flex;flex-direction:column;background-color:#fff;border-radius:4px;border:1px solid #efeff2;font-family:Arial,Helvetica,sans-serif}.giosg-chat-header{height:60px;padding:0 16px;background-color:#fff;border-radius:4px 4px 0 0;display:flex;align-items:center;cursor:move}.giosg-chat-dialog-agent-avatar-image{width:40px;height:40px;background-size:100% 100%;border-radius:100%;display:none}.giosg-chat-dialog-agent-avatar-image.giosg-chat-dialog-agent-avatar-image-visible{display:block}.giosg-chat-dialog-title-text{flex-grow:1;text-align:center;font-weight:bold;font-size:14px;color:#000}.giosg-chat-dialog-close-button{cursor:pointer;background-color:#fff;border:none;font-size:20px;font-weight:700;line-height:1em;color:#757575;text-shadow:0 1px 0 #fff;height:1em;width:1em;padding:0;margin:0;text-decoration:none;opacity:1;text-align:center;min-width:unset}.giosg-chat-dialog-close-button:hover{color:#000}.giosg-chat-dialog-close-button:focus{outline:none}.giosg-chat-dialog-iframe-container{flex-grow:1;height:0px}.giosg-chat-dialog-iframe-container iframe{display:block;height:100%;width:100%;border:0px;-ms-user-select:text !important}.giosg-chat-footer{height:37px;width:calc(100% - 16px);margin:0 8px;display:flex;flex-direction:row-reverse}.giosg-chat-footer-giosg-logo-link{padding:0;margin:0;text-decoration:none;opacity:1;text-align:center;display:flex;align-items:center;flex-shrink:0}.giosg-chat-footer-giosg-logo-image{height:25px}.giosg-chat-footer-customer-logo-image{flex-grow:1;flex-shrink:1;height:37px;min-width:0;width:0}.dialog-transfer-effect{border:1px solid gray;background:#000;opacity:.4;z-index:99999999}@keyframes giosg-animation-expand{0%{transform:scale(0.001);opacity:0;animation-timing-function:ease-in}36.36%{transform:scale(0.25);opacity:.25;animation-timing-function:ease-in}72.73%{transform:scale(1.1);opacity:.8;animation-timing-function:ease-out}100%{transform:scale(1);opacity:1;animation-timing-function:linear}}.giosg-animation-expand{animation-name:giosg-animation-expand;animation-duration:.2s;animation-timing-function:linear;animation-delay:0;animation-fill-mode:forwards;transform-origin:90% 90%}@keyframes giosg-animation-shrink{0%{transform:scale(1);opacity:1;animation-timing-function:linear}36.36%{transform:scale(1);opacity:.8;animation-timing-function:ease-out}72.73%{transform:scale(0.25);opacity:.05;animation-timing-function:ease-in}100%{transform:scale(0.001);opacity:0;animation-timing-function:ease-out}}.giosg-animation-shrink{animation-name:giosg-animation-shrink;animation-duration:.2s;animation-timing-function:linear;animation-delay:0;animation-fill-mode:forwards;transform-origin:90% 90%}.giosg-mobile-chat-dialog{bottom:0px;display:none;left:0px;position:fixed;right:0px;top:0px;z-index:99999999}.giosg-mobile-chat-dialog .giosg-mobile-chat-dialog-iframe{bottom:0px;height:100%;left:0px;position:fixed;right:0px;top:0px;width:100%}@media print{#giosg_chat_now_button{display:none}.giosg_bar_chat_dialog,#giosg_live_chat_dialog{display:none}}</style><script src="https://globalcdn.interactiondesigner.giosg.com/player.js"></script></head>
+
+<body class="wp-singular post-template-default single single-post postid-4858 single-format-standard wp-embed-responsive wp-theme-heikkila-co theme-heikkila-co woocommerce-js woocommerce-active"><div class="giosg_shadow_dom" style="position: absolute !important; z-index: 99999999 !important; display: block !important;"></div>
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Siirry sisältöön</a>
+	<header id="masthead" class="site-header">
+		
+<div class="header-promo-box">
+	<div class="container">
+					<span class="header-promo-box-text">Avustamme riitojen ratkaisemisessa.</span>
+		
+		<a href="tel:%20010%202899426" class="header-promo-box-link" target="_self">Soita 010 289 9426</a>	</div>
+</div>
+
+		<div class="site-header-inner">
+			<div class="site-branding">
+				<a href="../" rel="home">
+										<img src="../wp-content/themes/heikkila-co/dist/img/logo.svg" class="hide-in-mobile" alt="Lakiasiaintoimisto Heikkilä &amp; Co - Etusivulle">
+					<img src="../wp-content/themes/heikkila-co/dist/img/header-logo-mobile.svg" class="hide-in-desktop" alt="Lakiasiaintoimisto Heikkilä &amp; Co - Etusivulle">
+
+											<span class="branding-slogan" aria-hidden="true">Lakipalvelua panosten kovetessa</span>
+									</a>
+			</div><!-- .site-branding -->
+
+			<div id="main-navigation-wrapper" class="main-navigation-wrapper">
+									<nav class="languages hide-in-mobile" aria-label="Valitse kieli, Choose language">
+						
+<ul class="language-switcher">
+			<li>
+			<a href="./" class="is-active">
+				<span aria-hidden="true">Fi</span>
+				<span class="screen-reader-text">Suomi</span>
+			</a>
+		</li>
+			<li>
+			<a href="../en" class="">
+				<span aria-hidden="true">En</span>
+				<span class="screen-reader-text">English</span>
+			</a>
+		</li>
+	</ul>
+					</nav>
+				
+									<nav id="site-navigation" class="site-navigation main-navigation nav-menu" aria-label="Päävalikko">
+						<button id="main-menu-toggle" class="main-menu-toggle hamburger hamburger--spin" aria-controls="primary-navigation" aria-expanded="false" type="button">
+							<span class="screen-reader-text">Päävalikko</span>
+							<span class="hamburger-box">
+								<span class="hamburger-inner"></span>
+							</span>
+						</button>
+
+						<div id="primary-navigation" class="site-navigation-inner">
+							<div class="navigation-container">
+								<ul id="main-menu" class="menu-items nav-menu" itemscope="" itemtype="https://schema.org/SiteNavigationElement"><li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown heikkila-co-menu-item menu-item-25 nav-item"><a href="../palvelut" aria-haspopup="true" class="link" id="menu-item-dropdown-25"><span itemprop="name">Palvelut</span></a><button class="dropdown-toggle" aria-expanded="false" type="button">
+				<span class="icon fa-solid fa-chevron-down" aria-hidden="true"></span>
+				<span class="screen-reader-text">Alavalikko</span>
+			</button>
+<ul class="sub-menu" aria-labelledby="menu-item-dropdown-25">
+	<li id="menu-item-7007" class="menu-item menu-item-type-post_type menu-item-object-page heikkila-co-menu-item menu-item-7007 nav-item"><a itemprop="url" href="../palvelut/kiinteistojuridiikka" class="link"><span itemprop="name">Kiinteistöjuridiikka</span></a></li>
+	<li id="menu-item-7009" class="menu-item menu-item-type-post_type menu-item-object-page heikkila-co-menu-item menu-item-7009 nav-item"><a itemprop="url" href="../palvelut/yritysjuridiikka" class="link"><span itemprop="name">Yritysjuridiikka</span></a></li>
+	<li id="menu-item-8688" class="menu-item menu-item-type-post_type menu-item-object-page heikkila-co-menu-item menu-item-8688 nav-item"><a itemprop="url" href="../palvelut/sopimukset" class="link"><span itemprop="name">Sopimukset ja asiakirjat</span></a></li>
+	<li id="menu-item-8690" class="menu-item menu-item-type-post_type menu-item-object-page heikkila-co-menu-item menu-item-8690 nav-item"><a itemprop="url" href="../palvelut/riidanratkaisu" class="link"><span itemprop="name">Riidanratkaisu</span></a></li>
+	<li id="menu-item-8689" class="menu-item menu-item-type-post_type menu-item-object-page heikkila-co-menu-item menu-item-8689 nav-item"><a itemprop="url" href="../palvelut/yhteiskanne-ryhmakanne" class="link"><span itemprop="name">Yhteiskanteet</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1080" class="menu-item menu-item-type-post_type menu-item-object-page heikkila-co-menu-item menu-item-1080 nav-item"><a itemprop="url" href="../suositukset" class="link"><span itemprop="name">Suositukset</span></a></li>
+<li id="menu-item-7014" class="menu-item menu-item-type-post_type menu-item-object-page heikkila-co-menu-item menu-item-7014 nav-item"><a itemprop="url" href="../meista" class="link"><span itemprop="name">Meistä</span></a></li>
+<li id="menu-item-8837" class="menu-item menu-item-type-post_type menu-item-object-page heikkila-co-menu-item menu-item-8837 nav-item"><a itemprop="url" href="../juristi-tyopaikka" class="link"><span itemprop="name">Ura</span></a></li>
+<li id="menu-item-10782" class="menu-item menu-item-type-post_type menu-item-object-page heikkila-co-menu-item menu-item-10782 nav-item"><a itemprop="url" href="../lakimiehet-ja-muu-henkilosto" class="link"><span itemprop="name">Henkilöstö</span></a></li>
+<li id="menu-item-7032" class="menu-button menu-item menu-item-type-post_type menu-item-object-page heikkila-co-menu-item menu-item-7032 nav-item"><a itemprop="url" href="../ota-yhteytta-lakitoimistoon" class="link"><span itemprop="name">Yhteys</span></a></li>
+</ul>
+								<div class="mobile-extra hide-in-desktop">
+									
+<ul class="language-switcher">
+			<li>
+			<a href="./" class="is-active">
+				<span aria-hidden="true">Fi</span>
+				<span class="screen-reader-text">Suomi</span>
+			</a>
+		</li>
+			<li>
+			<a href="../en" class="">
+				<span aria-hidden="true">En</span>
+				<span class="screen-reader-text">English</span>
+			</a>
+		</li>
+	</ul>
+								</div>
+							</div>
+						</div>
+					</nav>
+							</div>
+		</div><!-- .site-header-inner -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+			
+<header class="part-general-header">
+	<div class="image-container">
+		<img width="1920" height="1080" src="../wp-content/uploads/2024/02/16A1438-1920x1080.jpg" class="featured-image" alt="" decoding="async" fetchpriority="high" srcset="../wp-content/uploads/2024/02/16A1438-1920x1080.jpg 1920w, ../wp-content/uploads/2024/02/16A1438-1440x810.jpg 1440w, ../wp-content/uploads/2024/02/16A1438-1024x576.jpg 1024w, ../wp-content/uploads/2024/02/16A1438-768x432.jpg 768w, ../wp-content/uploads/2024/02/16A1438-576x324.jpg 576w" sizes="(max-width: 1920px) 100vw, 1920px">	</div>
+
+	<div class="container">
+		<div class="content-wrapper">
+							<h1 class="title">Kumppanuus Lakeuden Maataloustilin kanssa</h1>						
+					</div>
+	</div>
+</header>
+
+			
+<div class="breadcrumbs">
+	<nav class="breadcrumb-nav" aria-label="Murupolku">
+		<span><span><a href="../"><span class="home-icon fa-regular fa-house" aria-hidden="true"></span>Etusivu</a></span> <span class="breadcrumbs-separator" aria-hidden="true">/</span> <span><a href="../artikkelit">Artikkelit</a></span> <span class="breadcrumbs-separator" aria-hidden="true">/</span> <span><a href="../kategoria/ajankohtaista">Ajankohtaista</a></span> <span class="breadcrumbs-separator" aria-hidden="true">/</span> <span class="breadcrumb_last" aria-current="page">Kumppanuus Lakeuden Maataloustilin kanssa</span></span>	</nav>
+</div>
+
+			<div class="entry-content">
+				<article class="single-article">
+					
+<div class="single-article-meta">
+			<div class="post-categories-wrap">
+			<span class="icon fa-regular fa-bookmark" aria-hidden="true"></span>
+			<ul class="post-categories">
+	<li><a href="../kategoria/ajankohtaista" rel="category tag">Ajankohtaista</a></li></ul>		</div>
+	
+			<div class="post-tags">
+			<span class="icon fa-regular fa-message" aria-hidden="true"></span>
+			<a href="../tag/lakeuden-maataloustili" rel="tag">Lakeuden Maataloustili</a>, <a href="../tag/lakipalvelut" rel="tag">lakipalvelut</a>, <a href="../tag/tilitoimisto" rel="tag">tilitoimisto</a>, <a href="../tag/yhteistyo" rel="tag">yhteistyö</a>		</div>
+	
+			<div class="post-date">
+			<span class="icon fa-regular fa-pen" aria-hidden="true"></span>
+			<time datetime="2022-09-30T07:40:22+03:00" class="entry-date">
+				30.9.2022			</time>
+		</div>
+	</div>
+
+										<div class="single-article-wrap no-infoboxes">
+						<div class="single-article-content">
+							<h4>Lakiasiaintoimistomme aloittaa yhteistyön Lakeuden Maataloustilin kanssa</h4>
+<p>Lakiasiaintoimistomme hakee aktiivisesti yhteistyökumppanuuksia tilitoimistoista ympäri Suomea ja aloitimme yhteistyön tilitoimistopalveluja tarjoavan <a href="https://www.lakeudenmaataloustili.fi/">Lakeuden Maataloustilin</a> kanssa. Tilitoimiston toimialue on Peräseinäjoki lähiympäristöineen. Tavoitteena on erityisesti tilitoimiston asiakkaille lisäarvoa tuova lakipalveluyhteistyö.</p>
+<p>Voit kysyä lakiasiaintoimistomme palveluista Peräseinäjoella yhteistyökumppaniltamme tai suoraan myyntijohtaja Jani Karlssonilta tai voit jättää yhteydenottopyynnön alla olevalla lomakkeella.</p>
+
+													</div>
+
+										</div></article>
+			</div>
+
+			
+<section class="part-contact-form block block-form theme-light">
+	<div class="container">
+		<div class="container-wrap">
+							<header class="header">
+					<h2 class="title h2">Jätä yhteydenottopyyntö</h2>				</header>
+						
+			<div class="form-wrap">
+				
+                <div class="gf_browser_chrome gform_wrapper gravity-theme gform-theme--no-framework" data-form-theme="gravity-theme" data-form-index="0" id="gform_wrapper_1" style=""><div id="gf_1" class="gform_anchor" tabindex="-1"></div>
+                        <div class="gform_heading">
+							<p class="gform_required_legend"></p>
+                        </div><form method="post" enctype="multipart/form-data" target="gform_ajax_frame_1" id="gform_1" action="./#gf_1" data-formid="1" novalidate="">
+                        <div class="gform-body gform_body"><div id="gform_fields_1" class="gform_fields top_label form_sublabel_above description_above validation_below"><div id="field_1_10" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_above gfield--has-description field_description_above field_validation_below gfield_visibility_visible"><label class="gfield_label gform-field-label" for="input_1_10">LinkedIn</label><div class="gfield_description" id="gfield_description_1_10">Kenttä on validointitarkoituksiin ja tulee jättää koskemattomaksi.</div><div class="ginput_container"><input name="input_10" id="input_1_10" type="text" value="" autocomplete="new-password"></div></div><div id="field_1_8" class="gfield gfield--type-text gfield--input-type-text gfield--width-quarter gfield_contains_required field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"><label class="gfield_label gform-field-label" for="input_1_8">Nimesi<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class="ginput_container ginput_container_text"><input name="input_8" id="input_1_8" type="text" value="" class="large" aria-required="true" aria-invalid="false"></div></div><div id="field_1_4" class="gfield gfield--type-text gfield--input-type-text gfield--width-quarter field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"><label class="gfield_label gform-field-label" for="input_1_4">Yrityksen nimi</label><div class="ginput_container ginput_container_text"><input name="input_4" id="input_1_4" type="text" value="" class="large" placeholder="Jos edustat yritystä" aria-invalid="false"></div></div><div id="field_1_2" class="gfield gfield--type-email gfield--input-type-email gfield--width-quarter gfield_contains_required field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"><label class="gfield_label gform-field-label" for="input_1_2">Sähköpostiosoitteesi<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class="ginput_container ginput_container_email">
+                            <input name="input_2" id="input_1_2" type="email" value="" class="large" aria-required="true" aria-invalid="false">
+                        </div></div><div id="field_1_5" class="gfield gfield--type-phone gfield--input-type-phone gfield--width-quarter gfield_contains_required field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"><label class="gfield_label gform-field-label" for="input_1_5">Puhelinnumerosi<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class="ginput_container ginput_container_phone"><input name="input_5" id="input_1_5" type="tel" value="" class="large" aria-required="true" aria-invalid="false"></div></div><div id="field_1_3" class="gfield gfield--type-textarea gfield--input-type-textarea field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"><label class="gfield_label gform-field-label" for="input_1_3">Lisätiedot</label><div class="ginput_container ginput_container_textarea"><textarea name="input_3" id="input_1_3" class="textarea medium" placeholder="Älä jätä lisätietokentässä henkilötietojasi" aria-invalid="false" rows="10" cols="50"></textarea></div></div><fieldset id="field_1_7" class="gfield gfield--type-consent gfield--type-choice gfield--input-type-consent gfield_contains_required field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"><legend class="gfield_label gform-field-label gfield_label_before_complex">Tietosuojaseloste<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend><div class="ginput_container ginput_container_consent"><input name="input_7.1" id="input_1_7_1" type="checkbox" value="1" aria-required="true" aria-invalid="false"> <label class="gform-field-label gform-field-label--type-inline gfield_consent_label" for="input_1_7_1">Olen lukenut <a href="../tietosuojaseloste" target="_blank">tietosuojaselosteen</a>.</label><input type="hidden" name="input_7.2" value="Olen lukenut &lt;a href=&quot;../tietosuojaseloste/&quot; target=&quot;_blank&quot;&gt;tietosuojaselosteen&lt;/a&gt;." class="gform_hidden"><input type="hidden" name="input_7.3" value="1" class="gform_hidden"></div></fieldset><div id="field_1_9" class="gfield gfield--type-text gfield--input-type-text gfield--width-full gfield_contains_required field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"><label class="gfield_label gform-field-label" for="input_1_9">Pakollinen roskapostiesto: Kirjoita laatikkoon "kaksi" ja "Lähetä" nappula ilmestyy<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class="ginput_container ginput_container_text"><input name="input_9" id="input_1_9" type="text" value="" class="large" aria-required="true" aria-invalid="false"></div></div></div></div>
+        <div class="gform-footer gform_footer top_label"> <input type="submit" id="gform_submit_button_1" class="gform_button button" onclick="gform.submission.handleButtonClick(this);" data-submission-type="submit" value="Lähetä" disabled="disabled" data-conditional-logic="hidden" style="display: none;"> <input type="hidden" name="gform_ajax" value="form_id=1&amp;title=&amp;description=&amp;tabindex=0&amp;theme=gravity-theme&amp;styles=[]&amp;hash=3fe192096287d5481df96634fd9ca6d9">
+            <input type="hidden" class="gform_hidden" name="gform_submission_method" data-js="gform_submission_method_1" value="iframe">
+            <input type="hidden" class="gform_hidden" name="gform_theme" data-js="gform_theme_1" id="gform_theme_1" value="gravity-theme">
+            <input type="hidden" class="gform_hidden" name="gform_style_settings" data-js="gform_style_settings_1" id="gform_style_settings_1" value="[]">
+            <input type="hidden" class="gform_hidden" name="is_submit_1" value="1">
+            <input type="hidden" class="gform_hidden" name="gform_submit" value="1">
+            
+            <input type="hidden" class="gform_hidden" name="gform_currency" data-currency="EUR" value="qtMflk2NDgiTy3sM+wz5MmRd0xFyDJVo6YvZlOaO/F7DGUbHPXFe8tdOteu0GBvGgTr4f+fqgUfbAi8hRrNBYchC1fLqkzEHtVQYLBj25KiBbV0=">
+            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
+            <input type="hidden" class="gform_hidden" name="state_1" value="WyJ7XCI3LjFcIjpcImE2ZjFjYzE2ZTU3M2ZhZTg4OWU4ZjEzODU1NmUyMDdmXCIsXCI3LjJcIjpcImNiYjE1ZDJiZmMwY2E1YjRjZmFmOTQwMzFiMWNkZGRlXCIsXCI3LjNcIjpcImE2ZjFjYzE2ZTU3M2ZhZTg4OWU4ZjEzODU1NmUyMDdmXCJ9IiwiY2JkNjUxOWE5MmQxOGQzYTI4NWVjMDA1OWRhMDFlMDciXQ==">
+            <input type="hidden" autocomplete="off" class="gform_hidden" name="gform_target_page_number_1" id="gform_target_page_number_1" value="0">
+            <input type="hidden" autocomplete="off" class="gform_hidden" name="gform_source_page_number_1" id="gform_source_page_number_1" value="1">
+            <input type="hidden" name="gform_field_values" value="">
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style="display:none;width:0px;height:0px;" src="about:blank" name="gform_ajax_frame_1" id="gform_ajax_frame_1" title="This iframe contains the logic required to handle Ajax powered Gravity Forms."></iframe>
+		                <script>
+gform.initializeOnLoaded( function() {gformInitSpinner( 1, '../wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){form_content.find('form').css('opacity', 0);jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, '../wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 1, current_page );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+</script>
+			</div>
+		</div>
+	</div>
+</section>
+
+			
+<section class="part-related-articles block">
+	<div class="container">
+					<header class="header">
+				<h2 class="title h2">Katso myös</h2>			</header>
+				
+				<div class="articles grid-columns-3">
+			
+<article class="article-card post-13294 post type-post status-publish format-standard has-post-thumbnail hentry category-ajankohtaista tag-avio-oikeus tag-avioero tag-avioliitto tag-avioliittolaki">
+	<div class="article-content">
+		<header class="article-header">
+			<ul class="post-categories">
+	<li><a href="../kategoria/ajankohtaista" rel="category tag">Ajankohtaista</a></li></ul>
+			<h3 class="title item-title feed-title h4">
+					<a class="title-link" href="../avioliittolaki-muuttui-merkittavia-muutoksia-avio-oikeuteen">
+						Avioliittolaki muuttui – Merkittäviä muutoksia avio-oikeuteen
+					</a>
+				</h3>		</header>
+
+		<div class="article-summary">
+			Vinkit taksiyritykselle koulukyytikilpailutukseen osallistumiseen		</div>
+
+					<div class="article-date">
+				<time datetime="2026-06-11T15:42:25+03:00" class="entry-date">
+					11.6.2026				</time>
+			</div>
+			</div>
+</article>
+
+<article class="article-card post-13278 post type-post status-publish format-standard hentry category-lakimiesten-artikkelit tag-asunto-osakeyhtiolaki tag-lakimuutos tag-taloyhtio tag-yhtiojarjestys">
+	<div class="article-content">
+		<header class="article-header">
+			<ul class="post-categories">
+	<li><a href="../kategoria/lakimiesten-artikkelit" rel="category tag">Lakimiesten-artikkelit</a></li></ul>
+			<h3 class="title item-title feed-title h4">
+					<a class="title-link" href="../taloyhtion-yhtiojarjestyksen-muuttaminen-asunto-osakeyhtiolain-uudistus">
+						Asunto-osakeyhtiölaki uudistuu – pitääkö taloyhtiön yhtiöjärjestys päivittää?&nbsp;
+					</a>
+				</h3>		</header>
+
+		<div class="article-summary">
+			Yhtiöjärjestyksen muuttaminen ei ole pakollista kaikille taloyhtiöille, mutta vanhentuneet määräykset voivat vaikeuttaa päätöksentekoa ja lisätä erimielisyyksiä. Artikkelissa käydään läpi, mitä asunto-osakeyhtiölain uudistus tarkoittaa käytännössä ja milloin yhtiöjärjestyksen päivittämistä kannattaa arvioida.		</div>
+
+					<div class="article-date">
+				<time datetime="2026-06-09T11:49:13+03:00" class="entry-date">
+					9.6.2026				</time>
+			</div>
+			</div>
+</article>
+
+<article class="article-card post-13252 post type-post status-publish format-standard hentry category-lakimiesten-artikkelit tag-palokatkot tag-rakennusvirhe tag-skanska tag-uusi-taloyhtio">
+	<div class="article-content">
+		<header class="article-header">
+			<ul class="post-categories">
+	<li><a href="../kategoria/lakimiesten-artikkelit" rel="category tag">Lakimiesten-artikkelit</a></li></ul>
+			<h3 class="title item-title feed-title h4">
+					<a class="title-link" href="../rakennusvirheet-uusissa-taloyhtioissa">
+						Rakennusvirheet uusissa taloyhtiöissä – miksi ne havaitaan usein vasta vuosien kuluttua?
+					</a>
+				</h3>		</header>
+
+		<div class="article-summary">
+			Rakennusvirheitä havaitaan Suomessa myös uusissa taloyhtiöissä. Virheet voivat liittyä esimerkiksi palokatkoihin, kosteudenhallintaan, rakenteisiin tai talotekniikkaan, ja osa ongelmista paljastuu vasta vuosien kuluttua rakennuksen valmistumisesta. Artikkelissa käydään läpi konkreettisia esimerkkitapauksia, rakennusliikkeen vastuuta sekä sitä, miten rakennusvirheet voivat jäädä rakennusvalvonnalta huomaamatta.		</div>
+
+					<div class="article-date">
+				<time datetime="2026-05-27T15:46:43+03:00" class="entry-date">
+					27.5.2026				</time>
+			</div>
+			</div>
+</article>
+		</div>
+	</div>
+</section>
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+		<div class="site-footer-inner">
+			<div class="site-footer-top-wrap">
+									<div class="footer-top-text">
+						<h2>Myynti ja asiakas­palvelu</h2>
+<p><a href="tel:010 289 9400">010 289 9400</a></p>
+<p>Puheluajat ma-pe klo 8-16</p>
+					</div>
+				
+				<div class="footer-top-search-some-icons">
+					
+<div class="footer-search-form">
+	<form role="search" method="get" class="search-form" action="../">
+		<label>
+			<span class="screen-reader-text">Hae</span>
+			<input type="search" class="search-field" placeholder="Hae" value="" name="s">
+		</label>
+
+		<button type="submit" class="search-submit">
+			<span class="screen-reader-text">Hae</span>
+			<span class="icon fa-sharp fa-regular fa-magnifying-glass" aria-hidden="true"></span>
+		</button>
+	</form>
+</div>
+
+					
+<ul class="social-media-icons">
+				<li class="item">
+				<a href="https://www.facebook.com/Heikkilaco/">
+					<span class="icon fa-brands fa-facebook-f" aria-hidden="true"></span>
+					<span class="screen-reader-text">
+						Facebook					</span>
+				</a>
+			</li>
+						<li class="item">
+				<a href="https://www.instagram.com/heikkilaco.fi/">
+					<span class="icon fa-brands fa-instagram" aria-hidden="true"></span>
+					<span class="screen-reader-text">
+						Instagram					</span>
+				</a>
+			</li>
+						<li class="item">
+				<a href="https://fi.linkedin.com/company/heikkila-co">
+					<span class="icon fa-brands fa-linkedin" aria-hidden="true"></span>
+					<span class="screen-reader-text">
+						LinkedIn					</span>
+				</a>
+			</li>
+			</ul>
+				</div>
+			</div><!-- .site-footer-top-wrap -->
+
+			
+<div class="footer-columns columns grid-columns-3">
+			<div class="column">
+							<div class="content content-wysiwyg">
+					<h2>Asuminen, kiinteistöt ja rakentaminen</h2>
+<p><a href="../palvelut/kiinteistojuridiikka/#asuntojakiinteistokaupat">Asuntokauppariidat</a></p>
+<p><a href="../kiinteistojuridiikka/#taloyhtiot">Taloyhtiöt ja osakkaat</a></p>
+<p><a href="../kiinteistojuridiikka/#rakentaminen">Rakentaminen ja urakointi</a></p>
+<p><a href="../kiinteistojuridiikka/#kiinteistojarjestelyt">Kiinteistöjärjestelyt</a></p>
+<p><a href="../palvelut/kiinteistojuridiikka/#kiinteistojuridisetsopimukset">Sopimukset</a></p>
+<p><a href="../kiinteistojuridiikka/#vuokranantajanpalvelut">Vuokranantajan ja kiinteistökehittäjän palvelut</a></p>
+<h2>Yhteiskanteet</h2>
+<p><a href="../palvelut/yhteiskanne-ryhmakanne">Yhteiskanteet</a></p>
+				</div>
+					</div>
+			<div class="column">
+							<div class="content content-wysiwyg">
+					<h2>Palvelut yrityksille ja yrittäjille</h2>
+<p><a href="../palvelut/yritysjuridiikka/#oikeudenkaynnit">Oikeudenkäynnit, välimiesmenettely ja sovittelu</a></p>
+<p><a href="../palvelut/yritysjuridiikka/#sopimukset">Sopimukset</a></p>
+<p><a href="../palvelut/yritysjuridiikka/#tyosuhdejuridiikka">Työsuhdejuridiikka</a></p>
+<p><a href="../palvelut/yritysjuridiikka/#veroasiat">Veroasiat</a></p>
+<p><a href="../palvelut/yritysjuridiikka/#yhtiooikeus">Yhtiöoikeudelliset asiat</a></p>
+<p><a href="../palvelut/yritysjuridiikka/#perhejaperinto">Yrittäjän henkilökohtaiset asiat</a></p>
+<p><a href="../palvelut/yritysjuridiikka/#yritysjarjestelyt">Yritysjärjestelyt</a></p>
+<p><a href="../palvelut/yritysjuridiikka/#yrityskaupat">Yrityskaupat</a></p>
+<p><a href="../palvelut/yritysjuridiikka/#yritysperinta">Yritysperintä</a></p>
+<p><a href="../palvelut/yritysjuridiikka/#yrityssaneeraus">Yrityssaneeraus- ja konkurssiasiat</a></p>
+<p>&nbsp;</p>
+				</div>
+					</div>
+			<div class="column">
+							<div class="content content-wysiwyg">
+					<h2>Heikkilä &amp; Co</h2>
+<p><a href="../kategoria/ajankohtaista">Ajankohtaista</a></p>
+<p><a href="../kategoria/asiantuntija-artikkelit">Lakimiesten artikkelit</a></p>
+<p><a href="../lakimiehet-ja-muu-henkilosto">Lakimiehet ja muu henkilöstö</a></p>
+<p><a href="../lakitoimistot">Lakitoimistot</a></p>
+<p><a href="../hinnasto">Hinnasto</a></p>
+<p><a href="../kumppanuudet">Kumppanuudet</a></p>
+<p><a href="../meista">Meistä</a></p>
+<p><a href="../ota-yhteytta/#otayhteytta">Ota yhteyttä</a></p>
+<p><a href="../sivukartta">Sivukartta</a></p>
+<p><a href="../templaatit/suositukset">Suositukset</a></p>
+<p><a href="../lakimies-tyopaikka">Työpaikat ja ura meillä</a></p>
+<p><a href="../kauppa">Verkkokauppa ja webinaarit</a></p>
+<p><a href="../ota-yhteytta">Yhteystiedot</a></p>
+				</div>
+					</div>
+	</div>
+
+			<div class="site-footer-contact grid-columns-3">
+				<div class="site-footer-branding-grid grid-columns-2">
+					<div class="site-footer-branding">
+						<a href="../" rel="home">
+														<img src="../wp-content/themes/heikkila-co/dist/img/footer-logo.svg" alt="Lakiasiaintoimisto Heikkilä &amp; Co - Etusivulle">
+						</a>
+
+						<a href="../30-vuotias-heikkila-co-kiittaa-teoilla">
+														<img src="../wp-content/themes/heikkila-co/dist/img/30y.svg" alt="">
+						</a>
+					</div>
+					<div class="site-footer-branding-content">
+													<h2 class="title h5">
+								Lakiasiaintoimisto Heikkilä &amp; Co HCO Oy							</h2>
+						
+													<div class="content content-wysiwyg">
+								<p>Postiosoite:<br>
+Puutarhakatu 45, 20100 Turku<br>
+Y-tunnus: 1843393-9</p>
+<p><a href="tel:0102899400">010 289 9400</a> (asiakaspalvelu 8-16)<br>
+<a href="mailto:info@heikkilaco.fi">info@heikkilaco.fi</a></p>
+<p><a href="../tietosuojaseloste">Tietosuojaseloste</a></p>
+							</div>
+											</div>
+				</div>
+
+				
+<div class="footer-contact-informations">
+			<div class="contact-information">
+							<div class="content content-wysiwyg">
+					<p><a href="https://maps.app.goo.gl/osbmnNiptDJ7otwK7"><strong>Lakitoimisto Helsinki</strong></a><br>
+Itämerenkatu 3<br>
+00180 Helsinki</p>
+				</div>
+					</div>
+			<div class="contact-information">
+							<div class="content content-wysiwyg">
+					<p><a href="https://maps.app.goo.gl/yikbbdL8A3PrYfgZ8"><strong>Lakitoimisto Turku</strong></a><br>
+Linnankatu 11 b<br>
+20100 Turku</p>
+				</div>
+					</div>
+			<div class="contact-information">
+							<div class="content content-wysiwyg">
+					<p><a href="https://maps.app.goo.gl/DeU5Rt2MQGy4sQGV8"><strong>Lakitoimisto Tampere</strong></a><br>
+Åkerlundinkatu 11<br>
+33100 Tampere</p>
+				</div>
+					</div>
+			<div class="contact-information">
+							<div class="content content-wysiwyg">
+					<p><a href="https://maps.app.goo.gl/FXARGtqFymES5sTX8"><strong>Lakitoimisto Vaasa</strong></a><br>
+Hovioikeudenpuistikko 13<br>
+65100 Vaasa</p>
+				</div>
+					</div>
+			<div class="contact-information">
+							<div class="content content-wysiwyg">
+					<p><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["LegalService", "LocalBusiness"],
+  "@id": "../#organization",
+  "name": "Lakiasiaintoimisto Heikkilä & Co",
+  "alternateName": "Heikkilä & Co",
+  "url": "../",
+  "inLanguage": "fi",
+  "email": "info@heikkilaco.fi",
+  "telephone": "+358102899400",
+  "priceRange": "€€",
+  "areaServed": {
+    "@type": "Country",
+    "name": "Finland"
+  },
+  "description": "Lakiasiaintoimisto Heikkilä & Co palvelee yksityisasiakkaita ja yritysasiakkaita eri tyyppisten riita-asioiden ratkaisuissa neuvottelemalla, sovittelemalla, oikeudenkäynneissä ja välimiesmenettelyissä.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Puutarhakatu 45",
+    "postalCode": "20100",
+    "addressLocality": "Turku",
+    "addressCountry": "FI"
+  },
+  "department": [
+    {
+      "@type": ["LegalService", "LocalBusiness"],
+      "@id": "../#helsinki",
+      "name": "Lakitoimisto Heikkilä & Co Helsinki",
+      "telephone": "+358102899400",
+      "email": "info@heikkilaco.fi",
+      "url": "../",
+      "inLanguage": "fi",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Itämerenkatu 3",
+        "postalCode": "00180",
+        "addressLocality": "Helsinki",
+        "addressCountry": "FI"
+      }
+    },
+    {
+      "@type": ["LegalService", "LocalBusiness"],
+      "@id": "../#turku",
+      "name": "Lakitoimisto Heikkilä & Co Turku",
+      "telephone": "+358102899400",
+      "email": "info@heikkilaco.fi",
+      "url": "../",
+      "inLanguage": "fi",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Puutarhakatu 45",
+        "postalCode": "20100",
+        "addressLocality": "Turku",
+        "addressCountry": "FI"
+      }
+    },
+    {
+      "@type": ["LegalService", "LocalBusiness"],
+      "@id": "../#tampere",
+      "name": "Lakitoimisto Heikkilä & Co Tampere",
+      "telephone": "+358102899400",
+      "email": "info@heikkilaco.fi",
+      "url": "../",
+      "inLanguage": "fi",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Åkerlundinkatu 11",
+        "postalCode": "33100",
+        "addressLocality": "Tampere",
+        "addressCountry": "FI"
+      }
+    },
+    {
+      "@type": ["LegalService", "LocalBusiness"],
+      "@id": "../#vaasa",
+      "name": "Lakitoimisto Heikkilä & Co Vaasa",
+      "telephone": "+358102899400",
+      "email": "info@heikkilaco.fi",
+      "url": "../lakitoimisto-vaasa",
+      "inLanguage": "fi",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hovioikeudenpuistikko 13",
+        "postalCode": "65100",
+        "addressLocality": "Vaasa",
+        "addressCountry": "FI"
+      }
+    }
+  ]
+}
+</script></p>
+				</div>
+					</div>
+	</div><!-- .footer-contact-informations -->
+			</div><!-- .site-footer-contact -->
+		</div><!-- .site-footer-inner -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"../*"},{"not":{"href_matches":["../wp-*.php","../wp-admin/*","../wp-content/uploads/*","../wp-content/*","../wp-content/plugins/*","../wp-content/themes/heikkila-co/*","../*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+	<!--copyscapeskip-->
+	<aside id="moove_gdpr_cookie_info_bar" class="moove-gdpr-info-bar-hidden moove-gdpr-align-center moove-gdpr-light-scheme gdpr_infobar_postion_bottom" aria-label="GDPR-evästebanneri" inert="" style="display: none;">
+	<div class="moove-gdpr-info-bar-container">
+		<div class="moove-gdpr-info-bar-content">
+		
+<div class="moove-gdpr-cookie-notice">
+  <p>Käytämme evästeitä parantaaksemme käyttökokemustasi. Käytämme evästeitä takaamaan verkkosivun toiminnan sekä sivuston ja palveluiden käytön seuraamiseen.</p>
+</div>
+<!--  .moove-gdpr-cookie-notice -->
+		
+<div class="moove-gdpr-button-holder">
+			<button class="mgbutton moove-gdpr-infobar-allow-all gdpr-fbo-0" aria-label="Hyväksy" tabindex="1">Hyväksy</button>
+						<button class="mgbutton moove-gdpr-infobar-reject-btn gdpr-fbo-1 " tabindex="1" aria-label="Hylkää">Hylkää</button>
+							<button class="mgbutton moove-gdpr-infobar-settings-btn change-settings-button gdpr-fbo-2 gdpr-settings-btn-style-2" aria-haspopup="true" data-href="#moove_gdpr_cookie_modal" tabindex="2" aria-label="Asetukset">Asetukset</button>
+			</div>
+<!--  .button-container -->
+		</div>
+		<!-- moove-gdpr-info-bar-content -->
+	</div>
+	<!-- moove-gdpr-info-bar-container -->
+	</aside>
+	<!-- #moove_gdpr_cookie_info_bar -->
+	<!--/copyscapeskip-->
+	<script>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel="stylesheet" id="wc-blocks-style-css" href="../wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1" media="all">
+<link rel="stylesheet" id="gform_basic-css" href="../wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.4" media="all">
+<link rel="stylesheet" id="gform_theme_components-css" href="../wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.10.4" media="all">
+<link rel="stylesheet" id="gform_theme-css" href="../wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.4" media="all">
+<script defer="defer" src="../wp-content/themes/heikkila-co/dist/js/scripts.js?ver=b5ea273fe3d39e79357469d3a5296252ac5009dc" id="heikkila-co-scripts-js"></script>
+<script src="../wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.8.1" id="sourcebuster-js-js"></script>
+<script id="wc-order-attribution-js-extra">
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":false,"ajaxurl":"../wp-admin/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+//# sourceURL=wc-order-attribution-js-extra
+</script>
+<script src="../wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.8.1" id="wc-order-attribution-js"></script>
+
+<script src="../wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js?ver=5.0.15" id="moove_gdpr_frontend-js"></script>
+<script id="moove_gdpr_frontend-js-after">
+var gdpr_c=document.cookie.match(/(?:^|;\s*)moove_gdpr_popup=([^;]*)/);var gdpr_d=gdpr_c?JSON.parse(decodeURIComponent(gdpr_c[1])):{};var gdpr_consent__strict=gdpr_d.strict==="1"?"true":"false";var gdpr_consent__thirdparty=gdpr_d.thirdparty==="1"?"true":"false";var gdpr_consent__advanced=gdpr_d.advanced==="1"?"true":"false";var gdpr_consent__performance=gdpr_d.performance==="1"?"true":"false";var gdpr_consent__preference=gdpr_d.preference==="1"?"true":"false";var _cc=[];if(gdpr_d.strict==="1")_cc.push("strict");if(gdpr_d.thirdparty==="1")_cc.push("thirdparty");if(gdpr_d.advanced==="1")_cc.push("advanced");if(gdpr_d.performance==="1")_cc.push("performance");if(gdpr_d.preference==="1")_cc.push("preference");var gdpr_consent__cookies=_cc.join("|");
+//# sourceURL=moove_gdpr_frontend-js-after
+</script>
+<script src="../wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script src="../wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script src="../wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="wp-a11y-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2026-05-27 05:06:06+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"fi"},"Notifications":["Ilmoitukset"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+//# sourceURL=wp-a11y-js-translations
+</script>
+<script src="../wp-includes/js/dist/a11y.min.js?ver=cb460b4676c94bd228ed" id="wp-a11y-js"></script>
+<script defer="defer" src="../wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.10.4" id="gform_json-js"></script>
+<script id="gform_gravityforms-js-extra">
+var gform_i18n = {"datepicker":{"days":{"monday":"Ma","tuesday":"Ti","wednesday":"Ke","thursday":"To","friday":"Pe","saturday":"La","sunday":"Su"},"months":{"january":"Tammikuu","february":"Helmikuu","march":"Maaliskuu","april":"Huhtikuu","may":"Toukokuu","june":"Kes\u00e4kuu","july":"Hein\u00e4kuu","august":"Elokuu","september":"Syyskuu","october":"Lokakuu","november":"Marraskuu","december":"Joulukuu"},"firstDay":1,"iconText":"Valitse p\u00e4iv\u00e4"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"T\u00e4m\u00e4n tyyppinen tiedosto ei ole sallittu. Sen pit\u00e4\u00e4 olla yksi seuraavista:","file_uploaded":"File uploaded","delete_file":"Poista t\u00e4m\u00e4 tiedosto","in_progress":"k\u00e4ynniss\u00e4","file_exceeds_limit":"Tiedoston koko ylitt\u00e4\u00e4 enimm\u00e4israjan","illegal_extension":"T\u00e4m\u00e4n tyyppinen tiedosto ei ole sallittu.","max_reached":"Tiedostoja on enimm\u00e4ism\u00e4\u00e4r\u00e4","unknown_error":"Tiedoston tallentaminen palvelimelle ep\u00e4onnistui","currently_uploading":"Odota kunnes lataus on valmis","cancel":"Peruuta","cancel_upload":"Peruuta lataus","cancelled":"Peruutettu","error":"Virhe","message":"Viesti"},"vars":{"images_url":"../wp-content/plugins/gravityforms/images"}};
+var gf_global = {"gf_currency_config":{"name":"Euro","symbol_left":"","symbol_right":"&#8364;","symbol_padding":" ","thousand_separator":".","decimal_separator":",","decimals":2,"code":"EUR"},"base_url":"../wp-content/plugins/gravityforms","number_formats":[],"spinnerUrl":"../wp-content/plugins/gravityforms/images/spinner.svg","version_hash":"d34ad881e3300038b959878304877cd6","strings":{"newRowAdded":"Uusi rivi lis\u00e4tty.","rowRemoved":"Rivi poistettu","formSaved":"Lomake on tallennettu. Sis\u00e4lt\u00f6 sis\u00e4lt\u00e4\u00e4 linkin palataksesi ja t\u00e4ytt\u00e4\u00e4ksesi lomakkeen."}};
+//# sourceURL=gform_gravityforms-js-extra
+</script>
+<script defer="defer" src="../wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.10.4" id="gform_gravityforms-js"></script>
+<script id="gform_conditional_logic-js-extra">
+var gf_legacy = {"is_legacy":""};
+//# sourceURL=gform_conditional_logic-js-extra
+</script>
+<script defer="defer" src="../wp-content/plugins/gravityforms/js/conditional_logic.min.js?ver=2.10.4" id="gform_conditional_logic-js"></script>
+<script defer="defer" src="../wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.10.4" id="gform_placeholder-js"></script>
+<script defer="defer" src="../wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=3f278756f0a3032bed328ff6a9f6c01d" id="gform_gravityforms_utils-js"></script>
+<script defer="defer" src="../wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=7c651d0ba638ce98b9c65141edddd567" id="gform_gravityforms_theme_vendors-js"></script>
+<script id="gform_gravityforms_theme-js-extra">
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"d34ad881e3300038b959878304877cd6"},"ajax":{"ajaxurl":"../wp-admin/admin-ajax.php","ajax_submission_nonce":"9c27c2cdaf","i18n":{"step_announcement":"Step %1$s of %2$s, %3$s","unknown_error":"There was an unknown error processing your request. Please try again.","error_403":"The request was blocked (403 error) for unknown security reasons. Remove any code-like text (scripts or DB queries) and try again."}}}},"hmr_dev":"","public_path":"../wp-content/plugins/gravityforms/assets/js/dist","config_nonce":"b3905d276e"};
+//# sourceURL=gform_gravityforms_theme-js-extra
+</script>
+<script defer="defer" src="../wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=301fdc9aa6144168f3b854c4c2c8f6d3" id="gform_gravityforms_theme-js"></script>
+		<script type="text/javascript">
+			var visualizerUserInteractionEvents = [
+				"scroll",
+				"mouseover",
+				"keydown",
+				"touchmove",
+				"touchstart"
+			];
+
+			visualizerUserInteractionEvents.forEach(function(event) {
+				window.addEventListener(event, visualizerTriggerScriptLoader, { passive: true });
+			});
+
+			function visualizerTriggerScriptLoader() {
+				visualizerLoadScripts();
+				visualizerUserInteractionEvents.forEach(function(event) {
+					window.removeEventListener(event, visualizerTriggerScriptLoader, { passive: true });
+				});
+			}
+
+			function visualizerLoadScripts() {
+				document.querySelectorAll("script[data-visualizer-script]").forEach(function(elem) {
+					jQuery.getScript( elem.getAttribute("data-visualizer-script") )
+					.done( function( script, textStatus ) {
+						elem.setAttribute("src", elem.getAttribute("data-visualizer-script"));
+						elem.removeAttribute("data-visualizer-script");
+						setTimeout( function() {
+							visualizerRefreshChart();
+						} );
+					} );
+				});
+			}
+
+			function visualizerRefreshChart() {
+				jQuery( '.visualizer-front:not(.visualizer-chart-loaded)' ).resize();
+				if ( jQuery( 'div.viz-facade-loaded:not(.visualizer-lazy):empty' ).length > 0 ) {
+					visualizerUserInteractionEvents.forEach( function( event ) {
+						window.addEventListener( event, function() {
+							jQuery( '.visualizer-front:not(.visualizer-chart-loaded)' ).resize();
+						}, { passive: true } );
+					} );
+				}
+			}
+		</script>
+			
+	<!--copyscapeskip-->
+	<button data-href="#moove_gdpr_cookie_modal" aria-haspopup="true" tabindex="1" id="moove_gdpr_save_popup_settings_button" style="display: none;" class="" aria-label="Muuta evästeiden asetuksia">
+	<span class="moove_gdpr_icon">
+		<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" style="max-width: 30px; max-height: 30px;">
+		<g data-name="1">
+			<path d="M293.9,450H233.53a15,15,0,0,1-14.92-13.42l-4.47-42.09a152.77,152.77,0,0,1-18.25-7.56L163,413.53a15,15,0,0,1-20-1.06l-42.69-42.69a15,15,0,0,1-1.06-20l26.61-32.93a152.15,152.15,0,0,1-7.57-18.25L76.13,294.1a15,15,0,0,1-13.42-14.91V218.81A15,15,0,0,1,76.13,203.9l42.09-4.47a152.15,152.15,0,0,1,7.57-18.25L99.18,148.25a15,15,0,0,1,1.06-20l42.69-42.69a15,15,0,0,1,20-1.06l32.93,26.6a152.77,152.77,0,0,1,18.25-7.56l4.47-42.09A15,15,0,0,1,233.53,48H293.9a15,15,0,0,1,14.92,13.42l4.46,42.09a152.91,152.91,0,0,1,18.26,7.56l32.92-26.6a15,15,0,0,1,20,1.06l42.69,42.69a15,15,0,0,1,1.06,20l-26.61,32.93a153.8,153.8,0,0,1,7.57,18.25l42.09,4.47a15,15,0,0,1,13.41,14.91v60.38A15,15,0,0,1,451.3,294.1l-42.09,4.47a153.8,153.8,0,0,1-7.57,18.25l26.61,32.93a15,15,0,0,1-1.06,20L384.5,412.47a15,15,0,0,1-20,1.06l-32.92-26.6a152.91,152.91,0,0,1-18.26,7.56l-4.46,42.09A15,15,0,0,1,293.9,450ZM247,420h33.39l4.09-38.56a15,15,0,0,1,11.06-12.91A123,123,0,0,0,325.7,356a15,15,0,0,1,17,1.31l30.16,24.37,23.61-23.61L372.06,328a15,15,0,0,1-1.31-17,122.63,122.63,0,0,0,12.49-30.14,15,15,0,0,1,12.92-11.06l38.55-4.1V232.31l-38.55-4.1a15,15,0,0,1-12.92-11.06A122.63,122.63,0,0,0,370.75,187a15,15,0,0,1,1.31-17l24.37-30.16-23.61-23.61-30.16,24.37a15,15,0,0,1-17,1.31,123,123,0,0,0-30.14-12.49,15,15,0,0,1-11.06-12.91L280.41,78H247l-4.09,38.56a15,15,0,0,1-11.07,12.91A122.79,122.79,0,0,0,201.73,142a15,15,0,0,1-17-1.31L154.6,116.28,131,139.89l24.38,30.16a15,15,0,0,1,1.3,17,123.41,123.41,0,0,0-12.49,30.14,15,15,0,0,1-12.91,11.06l-38.56,4.1v33.38l38.56,4.1a15,15,0,0,1,12.91,11.06A123.41,123.41,0,0,0,156.67,311a15,15,0,0,1-1.3,17L131,358.11l23.61,23.61,30.17-24.37a15,15,0,0,1,17-1.31,122.79,122.79,0,0,0,30.13,12.49,15,15,0,0,1,11.07,12.91ZM449.71,279.19h0Z" fill="currentColor"></path>
+			<path d="M263.71,340.36A91.36,91.36,0,1,1,355.08,249,91.46,91.46,0,0,1,263.71,340.36Zm0-152.72A61.36,61.36,0,1,0,325.08,249,61.43,61.43,0,0,0,263.71,187.64Z" fill="currentColor"></path>
+		</g>
+		</svg>
+	</span>
+
+	<span class="moove_gdpr_text">Muuta evästeiden asetuksia</span>
+	</button>
+	<!--/copyscapeskip-->
+    
+	<!--copyscapeskip-->
+	<!-- V2 -->
+	<dialog id="moove_gdpr_cookie_modal" class="gdpr_lightbox-hide" aria-modal="true" aria-hidden="true" aria-label="GDPR-asetusnäyttö">
+	<div class="moove-gdpr-modal-content moove-clearfix logo-position-left moove_gdpr_modal_theme_v2">
+				<button class="moove-gdpr-modal-close" autofocus="" aria-label="Sulje GDPR-evästeasetukset">
+			<span class="gdpr-sr-only">Sulje GDPR-evästeasetukset</span>
+			<span class="gdpr-icon moovegdpr-arrow-close"> </span>
+		</button>
+				<div class="moove-gdpr-modal-left-content">
+		<ul id="moove-gdpr-menu">
+			
+<li class="menu-item-on menu-item-privacy_overview menu-item-selected">
+	<button data-href="#privacy_overview" class="moove-gdpr-tab-nav" aria-label="Yleiskatsaus">
+	<span class="gdpr-nav-tab-title">Yleiskatsaus</span>
+	</button>
+</li>
+
+	<li class="menu-item-strict-necessary-cookies menu-item-off">
+	<button data-href="#strict-necessary-cookies" class="moove-gdpr-tab-nav" aria-label="Välttämättömät evästeet">
+		<span class="gdpr-nav-tab-title">Välttämättömät evästeet</span>
+	</button>
+	</li>
+
+
+	<li class="menu-item-off menu-item-third_party_cookies">
+	<button data-href="#third_party_cookies" class="moove-gdpr-tab-nav" aria-label="Kolmansien osapuolien evästeet">
+		<span class="gdpr-nav-tab-title">Kolmansien osapuolien evästeet</span>
+	</button>
+	</li>
+
+
+
+	<li class="menu-item-moreinfo menu-item-off">
+	<button data-href="#cookie_policy_modal" class="moove-gdpr-tab-nav" aria-label="Evästekäytäntö">
+		<span class="gdpr-nav-tab-title">Evästekäytäntö</span>
+	</button>
+	</li>
+		</ul>
+		</div>
+		<!--  .moove-gdpr-modal-left-content -->
+		<div class="moove-gdpr-modal-right-content">
+			<div class="moove-gdpr-modal-title"> 
+			<div>
+				<span class="tab-title">Yleiskatsaus</span>
+			</div>
+			
+<div class="moove-gdpr-company-logo-holder">
+	<img src="../wp-content/uploads/2023/06/cropped-favicon-300x300.png" alt="" width="300" height="300" class="img-responsive">
+</div>
+<!--  .moove-gdpr-company-logo-holder -->
+			</div>
+			<!-- .moove-gdpr-modal-ritle -->
+			<div class="main-modal-content">
+
+			<div class="moove-gdpr-tab-content">
+				
+<div id="privacy_overview" class="moove-gdpr-tab-main">
+		<div class="moove-gdpr-tab-main-content">
+	<p>Tämä verkkosivusto käyttää evästeitä, jotta voisimme tarjota kävijöille mahdollisimman hyvän käyttökokemuksen. Verkkoselaimeen tallentuvat evästeet tunnistavat palaavat kävijät ja heidän kielensä. Lisäksi evästeet antavat meille tärkeää tietoa mm. siitä, mitkä sivut kiinnostavat kävijöitä.</p>
+<p>Syyt miksi erityisesti HYVÄKSYISIT evästeet ovat:<br>
+• Voit aloittaa CHATin asiakaspalveluumme kanssa. Jos hylkäät, CHAT palvelu ei toimi.<br>
+• Sinua ei voida tunnistaa, vaikka hyväksyisit ne.</p>
+		</div>
+	<!--  .moove-gdpr-tab-main-content -->
+
+</div>
+<!-- #privacy_overview -->
+				
+  <div id="strict-necessary-cookies" class="moove-gdpr-tab-main">
+    <span class="tab-title">Välttämättömät evästeet</span>
+    <div class="moove-gdpr-tab-main-content">
+      <p>Nämä tulee olla aina päällä mm. siksi, että saat sumenkielisen sivuston automaattisesti käyttöösi.</p>
+      <div class="moove-gdpr-status-bar gdpr-checkbox-disabled checkbox-selected">
+        <div class="gdpr-cc-form-wrap">
+          <div class="gdpr-cc-form-fieldset">
+            <label class="cookie-switch" for="moove_gdpr_strict_cookies">    
+              <span class="gdpr-sr-only">Ota evästeet käyttöön tai poista ne käytöstä</span>        
+              <input type="checkbox" aria-label="Välttämättömät evästeet" disabled="" checked="checked" value="check" name="moove_gdpr_strict_cookies" id="moove_gdpr_strict_cookies">
+              <span class="cookie-slider cookie-round gdpr-sr" data-text-enable="Käytössä" data-text-disabled="Ei käytössä">
+                <span class="gdpr-sr-label">
+                  <span class="gdpr-sr-enable">Käytössä</span>
+                  <span class="gdpr-sr-disable">Ei käytössä</span>
+                </span>
+              </span>
+            </label>
+          </div>
+          <!-- .gdpr-cc-form-fieldset -->
+        </div>
+        <!-- .gdpr-cc-form-wrap -->
+      </div>
+      <!-- .moove-gdpr-status-bar -->
+                                              
+    </div>
+    <!--  .moove-gdpr-tab-main-content -->
+  </div>
+  <!-- #strict-necesarry-cookies -->
+				
+  <div id="third_party_cookies" class="moove-gdpr-tab-main">
+    <span class="tab-title">Kolmansien osapuolien evästeet</span>
+    <div class="moove-gdpr-tab-main-content">
+      <p>Sivustomme käyttää evästeiden avulla kolmansien apuohjelmia mm.:<br>
+• tarjotakseen CHAT palvelun kävijöille<br>
+• kerätäkseen tietoa anonyymisti sivuston käytöstä kuten suosituimmat sivut, suosituimmat sisällöt, kävijämäärät jne.<br>
+• pystyäksemme tarjoamaan paremman käyttäjäkokemuksen sivustollamme.</p>
+      <div class="moove-gdpr-status-bar">
+        <div class="gdpr-cc-form-wrap">
+          <div class="gdpr-cc-form-fieldset">
+            <label class="cookie-switch" for="moove_gdpr_performance_cookies">    
+              <span class="gdpr-sr-only">Ota evästeet käyttöön tai poista ne käytöstä</span>     
+              <input type="checkbox" aria-label="Kolmansien osapuolien evästeet" value="check" name="moove_gdpr_performance_cookies" id="moove_gdpr_performance_cookies">
+              <span class="cookie-slider cookie-round gdpr-sr" data-text-enable="Käytössä" data-text-disabled="Ei käytössä">
+                <span class="gdpr-sr-label">
+                  <span class="gdpr-sr-enable">Käytössä</span>
+                  <span class="gdpr-sr-disable">Ei käytössä</span>
+                </span>
+              </span>
+            </label>
+          </div>
+          <!-- .gdpr-cc-form-fieldset -->
+        </div>
+        <!-- .gdpr-cc-form-wrap -->
+      </div>
+      <!-- .moove-gdpr-status-bar -->
+             
+    </div>
+    <!--  .moove-gdpr-tab-main-content -->
+  </div>
+  <!-- #third_party_cookies -->
+				
+												
+	<div id="cookie_policy_modal" class="moove-gdpr-tab-main">
+	<span class="tab-title">Evästekäytäntö</span>
+	<div class="moove-gdpr-tab-main-content">
+		<p><a href="../tietosuojaseloste">Täältä voit lukea lisää evästekäytännöstämme.</a></p>
+		 
+	</div>
+	<!--  .moove-gdpr-tab-main-content -->
+	</div>
+			</div>
+			<!--  .moove-gdpr-tab-content -->
+			</div>
+			<!--  .main-modal-content -->
+			<div class="moove-gdpr-modal-footer-content">
+			<div class="moove-gdpr-button-holder">
+						<button class="mgbutton moove-gdpr-modal-allow-all button-visible" aria-label="Hyväksy kaikki evästeet">Hyväksy kaikki evästeet</button>
+								<button class="mgbutton moove-gdpr-modal-save-settings button-visible" aria-label="Tallenna">Tallenna</button>
+				</div>
+<!--  .moove-gdpr-button-holder -->
+			
+<div class="moove-gdpr-branding-cnt">
+			<a href="https://wordpress.org/plugins/gdpr-cookie-compliance/" rel="noopener noreferrer" target="_blank" class="moove-gdpr-branding">Powered by&nbsp; <span>GDPR Cookie Compliance</span></a>
+		</div>
+<!--  .moove-gdpr-branding -->
+			</div>
+			<!--  .moove-gdpr-modal-footer-content -->
+		</div>
+		<!--  .moove-gdpr-modal-right-content -->
+
+		<div class="moove-clearfix"></div>
+
+	</div>
+	<!--  .moove-gdpr-modal-content -->
+	</dialog>
+	<!-- #moove_gdpr_cookie_modal -->
+	<!--/copyscapeskip-->
+<script>
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 1) {gf_global["number_formats"][1] = {"8":{"price":false,"value":false},"4":{"price":false,"value":false},"2":{"price":false,"value":false},"5":{"price":false,"value":false},"3":{"price":false,"value":false},"7":{"price":false,"value":false},"9":{"price":false,"value":false}};if(window['jQuery']){if(!window['gf_form_conditional_logic'])window['gf_form_conditional_logic'] = new Array();window['gf_form_conditional_logic'][1] = { logic: { 0: {"field":{"enabled":true,"actionType":"show","logicType":"any","rules":[{"fieldId":"9","operator":"is","value":"kaksi"},{"fieldId":"9","operator":"is","value":"Kaksi"},{"fieldId":"9","operator":"is","value":"KAKSI"}]},"section":null} }, dependents: { 0: [0] }, animation: 0, defaults: [], fields: {"8":[0],"4":[0],"2":[0],"5":[0],"3":[0],"7":[0],"9":[0]} }; if(!window['gf_number_format'])window['gf_number_format'] = 'decimal_comma';jQuery(document).ready(function(){gform.utils.trigger({ event: 'gform/conditionalLogic/init/start', native: false, data: { formId: 1, fields: null, isInit: true } });window['gformInitPriceFields']();gf_apply_rules(1, [0], true);jQuery('#gform_wrapper_1').show();jQuery('#gform_wrapper_1 form').css('opacity', '');jQuery(document).trigger('gform_post_conditional_logic', [1, null, true]);gform.utils.trigger({ event: 'gform/conditionalLogic/init/end', native: false, data: { formId: 1, fields: null, isInit: true } });} );} if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script>
+gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "1", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 1, 1 );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );
+</script>
+
+<!-- morgan:managed:c -->
+
+
+
+<p id="a11y-speak-intro-text" class="a11y-speak-intro-text" style="position:absolute;margin:-1px;padding:0;height:1px;width:1px;overflow:hidden;clip-path:inset(50%);border:0;word-wrap:normal !important;" hidden="">Ilmoitukset</p><div id="a11y-speak-assertive" class="a11y-speak-region" style="position:absolute;margin:-1px;padding:0;height:1px;width:1px;overflow:hidden;clip-path:inset(50%);border:0;word-wrap:normal !important;" aria-live="assertive" aria-relevant="additions text" aria-atomic="true"></div><div id="a11y-speak-polite" class="a11y-speak-region" style="position:absolute;margin:-1px;padding:0;height:1px;width:1px;overflow:hidden;clip-path:inset(50%);border:0;word-wrap:normal !important;" aria-live="polite" aria-relevant="additions text" aria-atomic="true"></div><div class="widget_shopping_cart_live_region screen-reader-text" role="status"></div><div id="giosg-text-metrics-detector" style="width: 0px; height: 0px; line-height: 0; letter-spacing: 0px; word-spacing: 0px;"></div><div aria-live="assertive" aria-atomic="true" role="status" class="giosg-interaction-error-container" style="position: absolute; left: -9999px; height: 1px; width: 1px; overflow: hidden;"></div><div data-interaction-id="019613e2-d806-db5d-5790-7ece1f4bee0f" class="giosg-interaction" role="region" aria-label="" lang="fi"></div><style class="giosg-custom-fonts" data-interaction-id="019613e2-d806-db5d-5790-7ece1f4bee0f">
+              @font-face {
+                font-family: 'font-rcw5uzvxaktevjnqcpt8zjcq';
+                src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2);
+                unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+              }
+
+              @font-face {
+                font-family: 'font-rcw5uzvxaktevjnqcpt8zjcq';
+                src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2);
+                unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+              }
+
+              @font-face {
+                font-family: 'font-rcw5uzvxaktevjnqcpt8zjcq';
+                src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2);
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+              }
+
+          @font-face {
+            font-family: 'font-ntwqkvcgl7bcgg0v4broz0p';
+            src: url(https://cdn.giosgusercontent.com/assets/2546/9GbH91qmWsiwT6tkkQ5vC7c0yeMiZC.ttf);
+          }
+
+          @font-face {
+            font-family: 'font-pdddubzmjgs8v9d1u8k6jkfj';
+            src: url(https://cdn.giosgusercontent.com/assets/2546/ZXQlkgGkGBxZEULL41nEY57NfgcRUO.ttf);
+          }
+
+          @font-face {
+            font-family: 'font-s0h7zws3jnhq4mcgdkmsbfbo4';
+            src: url(https://cdn.giosgusercontent.com/assets/2546/4nthKQgmTu996HGJWSzj05jwXV6Xku.ttf);
+          }
+
+          @font-face {
+            font-family: 'font-l7q7gpzw8tmwdqfhkjv6ph2c';
+            src: url(https://cdn.giosgusercontent.com/assets/2546/FnwLyATiJbk53Dq5WU1oLq2vTSwtDj.ttf);
+          }
+
+          @font-face {
+            font-family: 'font-xp4v6lfdwjsdp737zmscrula';
+            src: url(https://cdn.giosgusercontent.com/assets/2546/Il0XM2eCOK3Vs5S8FpyHs1DAZyB74z.ttf);
+          }
+
+          @font-face {
+            font-family: 'font-f9ab2gx8gugfqwikip9ks3hp';
+            src: url(https://cdn.giosgusercontent.com/assets/2546/JxESLJzSkRdIw7OoVgLWeRklPtD1Ed.ttf);
+          }
+
+          @font-face {
+            font-family: 'font-sn3okiegx7cc7l843aensaf';
+            src: url(https://cdn.giosgusercontent.com/assets/2546/VCbldqjob329cwyZ4EuDLSIYm2TWCw.ttf);
+          }
+
+          @font-face {
+            font-family: 'font-l1rjnsuih47wl9y7c0t4fl97';
+            src: url(https://cdn.giosgusercontent.com/assets/2546/ZoAIjjgyFPql5s2KAEo3c49vuxrRkK.ttf);
+          }
+
+          @font-face {
+            font-family: 'font-oz440lmbq3dji1dgh88qy9wp';
+            src: url(https://cdn.giosgusercontent.com/assets/2546/YDADA08Q1ihQZTF8VUlekCo20J3cV3.ttf);
+          }
+
+          @font-face {
+            font-family: 'font-me17x3lpbq7bautqmvb8q5hm';
+            src: url(https://cdn.giosgusercontent.com/assets/2546/5hEgegxPCfsb9z954z72uVwJIy7lCK.ttf);
+          }
+
+              @font-face {
+                font-family: 'font-ekuuqcfcle0bluwyzhl0d9l';
+                src: url(https://www.tarkkanen.fi/cdn/fonts/archivo_narrow/archivonarrow_n4.ea12dd22d3319d164475c1d047ae8f973041a9ff.woff);
+                
+              }
+
+              @font-face {
+                font-family: 'font-ekuuqcfcle0bluwyzhl0d9l';
+                src: url(https://www.tarkkanen.fi/cdn/fonts/archivo_narrow/archivonarrow_n4.ea12dd22d3319d164475c1d047ae8f973041a9ff.woff);
+                
+              }</style></body></html>
